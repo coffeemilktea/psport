@@ -1,5 +1,7 @@
 $ports = Read-Host "Enter the port numbers you want to open:"
-$direction = Read-Host "Enter whether Inbound or Outbound rule:"
+#direction must be Inbound or Outbound
+$direction = Read-Host "Enter whether Inbound or Outbound:"
+
 
 # Set Array for multiple ports
 $portArray = $ports.Split(',')
