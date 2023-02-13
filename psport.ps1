@@ -1,5 +1,5 @@
 $ports = Read-Host "Enter the port numbers you want to open:"
-#direction must be Inbound or Outbound
+# direction must be Inbound or Outbound
 $direction = Read-Host "Enter whether Inbound or Outbound:"
 
 
