@@ -69,6 +69,11 @@ You can bypass interactive prompts by specifying parameters directly:
 
 ---
 
+## Related scripts
+
+- [psquickaccess](https://github.com/coffeemilktea/psquickaccess) — pin folders to Quick Access
+- [installwinget](https://github.com/coffeemilktea/installwinget) — install WinGet without the Microsoft Store
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
